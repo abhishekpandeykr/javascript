@@ -1,5 +1,5 @@
 function isPalindrome(isPalinStrng) {
-    if(isPalinStrng.length === 1) {
+    if(isPalinStrng.length < 2) {
         return true;
     } else {
         const strLen = isPalinStrng.length;
@@ -15,3 +15,4 @@ function isPalindrome(isPalinStrng) {
 
 console.log(isPalindrome('abhishek'));
 console.log(isPalindrome('12321'));
+console.log(isPalindrome('1221'));
