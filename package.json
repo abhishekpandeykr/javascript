@@ -1,0 +1,36 @@
+{
+  "name": "reactive-programming",
+  "version": "1.0.0",
+  "description": "This repository for functional Javascript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekpandeykr/reactive-programming.git"
+  },
+  "keywords": [
+    "reactive-programming",
+    "rxjs"
+  ],
+  "author": "Abhishek (abhishekpandey.kr@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekpandeykr/reactive-programming/issues"
+  },
+  "homepage": "https://github.com/abhishekpandeykr/reactive-programming#readme",
+  "devDependencies": {
+    "rxjs-compat": "^6.6.2",
+    "ts-loader": "^8.0.3",
+    "typescript": "^4.0.2",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^4.4.0",
+    "rxjs": "^6.6.2"
+  }
+}

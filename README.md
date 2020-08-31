@@ -1,7 +1,7 @@
 # javascript
-This repository for functional Javascript
+This repository for functional Javascript using RxJS.
 
-1 => Started Recursion on 27/05/2019
+1 => Started Recursion
     a :- How to use recusion for genrating powers.
     b :- For Factorial
     c :- Reversing a String
